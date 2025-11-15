@@ -49,6 +49,8 @@ The agent accepts natural language commands and translates them into GPU-acceler
     * Agent Result: `['Rank', 'Name', 'Platform', 'Year', 'Genre', ...]`
 * **User Prompt:** What are the top platforms from the year 2006?
     * Agent Result: `PS2, DS, PSP, X360, XB`
+
 * **User Prompt:** Use line charts to show the difference between NA sales and EU sales. Make the colour of one green and the other blue
     * Agent Result:
-      ![NA vs EU Sales Over Time Chart](Screenshot 2025-11-15 085806.png)
+      
+      ![NA vs EU Sales Over Time Chart](sales.png)
