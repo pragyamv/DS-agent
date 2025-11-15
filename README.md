@@ -36,6 +36,8 @@ The agent is designed for high-speed, interactive data exploration by abstractin
 
 Exploratory Data Analysis (EDA), Statistical queries (e.g., calculating correlation), Data manipulation and cleaning, and Data visualization (charting).
 
+(Primarily developed as a use case after creating data visualizations manually using tools like Tableau and PowerBI)
+
 ---
 
 ### Example Interaction
