@@ -2,7 +2,7 @@
 
 An intelligent agent built on **NVIDIA Nemotron Nano 9B v2** for natural language-to-code data analysis, accelerated entirely on the Kaggle GPU using `cudf.pandas`. The LLM runs locally via the `llama.cpp` HTTP server, providing a powerful, private, and efficient environment for data science tasks.
 
-### Badges
+--- 
 
 ![Model](https://img.shields.io/badge/Model-Nemotron%20Nano%209B%20v2-lightgrey)
 ![LLM Backend](https://img.shields.io/badge/LLM%20Backend-llama.cpp%20Server-lightgrey)
